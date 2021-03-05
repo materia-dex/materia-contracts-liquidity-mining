@@ -1,4 +1,4 @@
 node_modules/
 build/
 **/artifacts
-contracts/openzeppelin-solidiy-2.3.0/
+contracts/openzeppelin-solidity-2.3.0/
